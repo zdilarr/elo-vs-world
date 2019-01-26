@@ -23,13 +23,13 @@ Getting Started:
 **********************************************************************
 
 Notes:
-- Each player's rating is calculated considering the outcome
-  of the games against other players from the data set, as
-  well as the recentness of the games. Also, small advantage 
-  is given to white. Assumption is made too that the players
-  participating in the same tournament are of similar level.
-- Preparation of the dataset has already been made. In case 
-  of any modifications, be considerate of the fact that the 
+- Each player's rating is calculated considering the outcome<br>
+  of the games against other players from the data set, as<br>
+  well as the recentness of the games. Also, small advantage <br>
+  is given to white. Assumption is made too that the players<br>
+  participating in the same tournament are of similar level.<br>
+- Preparation of the dataset has already been made. In case <br>
+  of any modifications, be considerate of the fact that the <br>
   the number of required operations is fairly big.
 
  Example: 
